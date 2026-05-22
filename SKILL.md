@@ -1,5 +1,5 @@
 ---
-name: docx_bilingual_translator
+name: docx-bilingual-translator
 description: A high-fidelity Word document bilingual translator with automatic layout protection and professional terminology mapping.
 ---
 
