@@ -1,4 +1,4 @@
-# 📖 Word 高保真双语翻译器 (docx_bilingual_translator)
+# 📖 Word 高保真双语翻译器 (docx-bilingual-translator)
 
 [![Python 3](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Library](https://img.shields.io/badge/python--docx-1.1.0+-green.svg)](https://python-docx.readthedocs.io/)
