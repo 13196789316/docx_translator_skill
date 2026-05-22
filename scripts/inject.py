@@ -76,13 +76,18 @@ if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     parent_dir = os.path.dirname(script_dir)
     
+    # 动态获取桌面路径
+    desktop_dir = os.path.join(os.path.expanduser("~"), "Desktop")
+    default_input = os.path.join(desktop_dir, "manual.docx")
+    default_output = os.path.join(desktop_dir, "manual_bilingual.docx")
+    
     parser = argparse.ArgumentParser(description="Inject English translations back into a Word (.docx) file.")
-    parser.add_argument("-i", "--input", default="/Users/shenweitao/Desktop/印尼服装SRM系统操作手册.docx",
-                        help="Path to the input DOCX file")
+    parser.add_argument("-i", "--input", default=default_input,
+                        help="Path to the input DOCX file (default: ~/Desktop/manual.docx)")
     parser.add_argument("-t", "--translation", default=os.path.join(parent_dir, "examples", "sample_result.json"),
                         help="Path to the translation JSON file")
-    parser.add_argument("-o", "--output", default="/Users/shenweitao/Desktop/印尼服装SRM系统操作手册_双语.docx",
-                        help="Path to save the bilingual output DOCX")
+    parser.add_argument("-o", "--output", default=default_output,
+                        help="Path to save the bilingual output DOCX (default: ~/Desktop/manual_bilingual.docx)")
     
     # 样式配置参数
     parser.add_argument("--para-size", type=float, default=10.0,

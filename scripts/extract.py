@@ -64,8 +64,11 @@ def extract_docx_text(docx_path, output_json_path):
 if __name__ == "__main__":
     # 解析命令行参数
     parser = argparse.ArgumentParser(description="Extract Chinese text blocks from a Word (.docx) file.")
-    parser.add_argument("-i", "--input", default="/Users/shenweitao/Desktop/印尼服装SRM系统操作手册.docx",
-                        help="Path to the input DOCX file")
+    
+    # 动态获取桌面路径
+    default_input = os.path.join(os.path.expanduser("~"), "Desktop", "manual.docx")
+    parser.add_argument("-i", "--input", default=default_input,
+                        help="Path to the input DOCX file (default: ~/Desktop/manual.docx)")
     parser.add_argument("-o", "--output", default=None,
                         help="Path to save the extracted source JSON file")
     
