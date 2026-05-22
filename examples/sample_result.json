@@ -1,0 +1,2540 @@
+[
+  {
+    "id": 0,
+    "type": "paragraph",
+    "index": 0,
+    "zh": "印尼服装SRM系统操作手册",
+    "en": "Indonesian Apparel SRM System Operator Manual"
+  },
+  {
+    "id": 1,
+    "type": "paragraph",
+    "index": 1,
+    "zh": "一、基础数据维护和管理",
+    "en": "I. Basic Data Maintenance and Management"
+  },
+  {
+    "id": 2,
+    "type": "paragraph",
+    "index": 2,
+    "zh": "1.1【采购员&采购部经理】供应商档案维护",
+    "en": "1.1 [Purchasing Specialist & Purchasing Manager] Supplier Profile Maintenance"
+  },
+  {
+    "id": 3,
+    "type": "paragraph",
+    "index": 3,
+    "zh": "【采购员】供应商列表—新增供应商",
+    "en": "[Purchasing Specialist] Supplier List - Add New Supplier"
+  },
+  {
+    "id": 4,
+    "type": "paragraph",
+    "index": 4,
+    "zh": "供应商管理-供应商列表-点击【添加供应商】",
+    "en": "Supplier Management - Supplier List - Click [Add Supplier]"
+  },
+  {
+    "id": 5,
+    "type": "paragraph",
+    "index": 6,
+    "zh": "录入供应商基础信息、联系人、财务信息、证照信息；提交",
+    "en": "Input supplier basic information, contact person, financial details, and credential/license information; submit."
+  },
+  {
+    "id": 6,
+    "type": "paragraph",
+    "index": 9,
+    "zh": "【采购员】供应商列表—变更联系人",
+    "en": "[Purchasing Specialist] Supplier List - Change Contact Person"
+  },
+  {
+    "id": 7,
+    "type": "paragraph",
+    "index": 10,
+    "zh": "修改供应商联系人姓名，手机号等相关信息；",
+    "en": "Modify supplier contact person name, mobile number, and other related information;"
+  },
+  {
+    "id": 8,
+    "type": "paragraph",
+    "index": 14,
+    "zh": "【采购员】供应商列表—启用/禁用供应商",
+    "en": "[Purchasing Specialist] Supplier List - Enable/Disable Supplier"
+  },
+  {
+    "id": 9,
+    "type": "paragraph",
+    "index": 15,
+    "zh": "供应商不符合采购部资质的提交禁用流程，将不参与后续的采购，填写禁用/启用原因，上传附件，提交待审批通过即可生效",
+    "en": "If a supplier does not meet the qualifications of the Purchasing Department, submit a disablement workflow so they will not participate in subsequent procurement. Fill in the reason for disabling/enabling, upload attachments, and submit for approval to take effect."
+  },
+  {
+    "id": 10,
+    "type": "paragraph",
+    "index": 19,
+    "zh": "【采购员】供应商列表—申请变更",
+    "en": "[Purchasing Specialist] Supplier List - Apply for Change"
+  },
+  {
+    "id": 11,
+    "type": "paragraph",
+    "index": 20,
+    "zh": "对已经审核通过的供应商，需要修改信息可直接修改提交审批",
+    "en": "For suppliers that have already been approved, if information needs to be modified, it can be directly modified and submitted for approval."
+  },
+  {
+    "id": 12,
+    "type": "paragraph",
+    "index": 23,
+    "zh": "【采购员】供应商列表—详情",
+    "en": "[Purchasing Specialist] Supplier List - Details"
+  },
+  {
+    "id": 13,
+    "type": "paragraph",
+    "index": 24,
+    "zh": "点击查看入驻供应商详情",
+    "en": "Click to view the details of the onboarded supplier."
+  },
+  {
+    "id": 14,
+    "type": "paragraph",
+    "index": 28,
+    "zh": "【采购部经理】审批",
+    "en": "[Purchasing Manager] Approval"
+  },
+  {
+    "id": 15,
+    "type": "paragraph",
+    "index": 29,
+    "zh": "禁用审批",
+    "en": "Disablement Approval"
+  },
+  {
+    "id": 16,
+    "type": "paragraph",
+    "index": 32,
+    "zh": "启用审批",
+    "en": "Enablement Approval"
+  },
+  {
+    "id": 17,
+    "type": "paragraph",
+    "index": 34,
+    "zh": "手机审批启用",
+    "en": "Mobile Approval Enabled"
+  },
+  {
+    "id": 18,
+    "type": "paragraph",
+    "index": 37,
+    "zh": "【系统】消息通知",
+    "en": "[System] Message Notification"
+  },
+  {
+    "id": 19,
+    "type": "paragraph",
+    "index": 40,
+    "zh": "证照管理：",
+    "en": "Credential Management:"
+  },
+  {
+    "id": 20,
+    "type": "paragraph",
+    "index": 41,
+    "zh": "【采购员】证照查询",
+    "en": "[Purchasing Specialist] Credential Inquiry"
+  },
+  {
+    "id": 21,
+    "type": "paragraph",
+    "index": 42,
+    "zh": "输入企业名称可查询对应企业的证照信息",
+    "en": "Enter the enterprise name to query the credential and license details of the corresponding enterprise."
+  },
+  {
+    "id": 22,
+    "type": "paragraph",
+    "index": 44,
+    "zh": "【采购员】证照新增",
+    "en": "[Purchasing Specialist] Add Credential"
+  },
+  {
+    "id": 23,
+    "type": "paragraph",
+    "index": 45,
+    "zh": "增加供应商的证件照，设定证件的日期，上传证照",
+    "en": "Add the supplier's credential photo, set the document date, and upload the credentials."
+  },
+  {
+    "id": 24,
+    "type": "paragraph",
+    "index": 47,
+    "zh": "【采购员】证照下载",
+    "en": "[Purchasing Specialist] Download Credential"
+  },
+  {
+    "id": 25,
+    "type": "paragraph",
+    "index": 48,
+    "zh": "下载证件信息的图片",
+    "en": "Download the image of the credential information."
+  },
+  {
+    "id": 26,
+    "type": "paragraph",
+    "index": 50,
+    "zh": "【采购员】证照替换",
+    "en": "[Purchasing Specialist] Replace Credential"
+  },
+  {
+    "id": 27,
+    "type": "paragraph",
+    "index": 51,
+    "zh": "替换证件内容和修改证件信息",
+    "en": "Replace credential content and modify credential information."
+  },
+  {
+    "id": 28,
+    "type": "paragraph",
+    "index": 53,
+    "zh": "1.2【采购员】辅料分类维护和管理",
+    "en": "1.2 [Purchasing Specialist] Accessories Category Maintenance and Management"
+  },
+  {
+    "id": 29,
+    "type": "paragraph",
+    "index": 54,
+    "zh": "采购员】物料分类维护(新增与编辑)",
+    "en": "[Purchasing Specialist] Material Category Maintenance (Add & Edit)"
+  },
+  {
+    "id": 30,
+    "type": "paragraph",
+    "index": 58,
+    "zh": "1.3【采购员】辅料档案维护和管理",
+    "en": "1.3 [Purchasing Specialist] Accessories Profile Maintenance and Management"
+  },
+  {
+    "id": 31,
+    "type": "paragraph",
+    "index": 59,
+    "zh": "【采购员】物料编码查询",
+    "en": "[Purchasing Specialist] Material Code Inquiry"
+  },
+  {
+    "id": 32,
+    "type": "paragraph",
+    "index": 61,
+    "zh": "【采购员】物料新增",
+    "en": "[Purchasing Specialist] Add New Material"
+  },
+  {
+    "id": 33,
+    "type": "paragraph",
+    "index": 62,
+    "zh": "点击新增按钮",
+    "en": "Click the Add button."
+  },
+  {
+    "id": 34,
+    "type": "paragraph",
+    "index": 66,
+    "zh": "【采购员】物料编码详情",
+    "en": "[Purchasing Specialist] Material Code Details"
+  },
+  {
+    "id": 35,
+    "type": "paragraph",
+    "index": 67,
+    "zh": "点击编码查询物料详情",
+    "en": "Click on the code to view material details."
+  },
+  {
+    "id": 36,
+    "type": "paragraph",
+    "index": 71,
+    "zh": "【采购员】物料编码历史报价",
+    "en": "[Purchasing Specialist] Material Code Quotation History"
+  },
+  {
+    "id": 37,
+    "type": "paragraph",
+    "index": 72,
+    "zh": "查看供应商历史报价，询价采购的供应商价格也会在此展示",
+    "en": "View historical supplier quotations; prices from RFQ sourcing suppliers will also be displayed here."
+  },
+  {
+    "id": 38,
+    "type": "paragraph",
+    "index": 77,
+    "zh": "【采购员】物料编码修改退税率",
+    "en": "[Purchasing Specialist] Modify Material Code Tax Rebate Rate"
+  },
+  {
+    "id": 39,
+    "type": "paragraph",
+    "index": 78,
+    "zh": "对进口物料报关产品，可以退税的填写退税率",
+    "en": "For imported materials requiring customs declaration, fill in the tax rebate rate if tax refund is applicable."
+  },
+  {
+    "id": 40,
+    "type": "paragraph",
+    "index": 82,
+    "zh": "【物料】状态说明",
+    "en": "[Material] Status Description"
+  },
+  {
+    "id": 41,
+    "type": "paragraph",
+    "index": 83,
+    "zh": "启用：代表需求申请的时候，能看到这个物料也能选择这个物料",
+    "en": "Enabled: Means that during requisition application, this material is visible and selectable."
+  },
+  {
+    "id": 42,
+    "type": "paragraph",
+    "index": 84,
+    "zh": "禁用：代表需求申请的时候，能看到这个物料但选不了",
+    "en": "Disabled: Means that during requisition application, this material is visible but cannot be selected."
+  },
+  {
+    "id": 43,
+    "type": "paragraph",
+    "index": 85,
+    "zh": "二、采购申请-受理-执行",
+    "en": "II. Purchase Requisition - Acceptance - Execution"
+  },
+  {
+    "id": 44,
+    "type": "paragraph",
+    "index": 86,
+    "zh": "2.1【跟单员】面料采购计划-完善",
+    "en": "2.1 [Merchandiser] Fabric Procurement Plan - Completion"
+  },
+  {
+    "id": 45,
+    "type": "paragraph",
+    "index": 87,
+    "zh": "输入核料单号，申请人可查询相对应的信息",
+    "en": "Enter the material verification sheet number; the applicant can query the corresponding details."
+  },
+  {
+    "id": 46,
+    "type": "paragraph",
+    "index": 90,
+    "zh": "点击编辑，对面料采购计划进行完善",
+    "en": "Click Edit to complete and perfect the fabric procurement plan."
+  },
+  {
+    "id": 47,
+    "type": "paragraph",
+    "index": 93,
+    "zh": "完善面料品质、面料跟单员（默认当前账号，可修改成实际面料跟单员）、船样数量、船样日期点击提交按钮，数据进入采购需求池，*号必填，没有*号可不填",
+    "en": "Fill in fabric quality, fabric merchandiser (defaults to current account, can be modified to actual fabric merchandiser), shipping sample quantity, and shipping sample date. Click the Submit button to push the data into the procurement demand pool. Fields with * are mandatory; others are optional."
+  },
+  {
+    "id": 48,
+    "type": "paragraph",
+    "index": 96,
+    "zh": "2.2【跟单员】面料采购计划-执行",
+    "en": "2.2 [Merchandiser] Fabric Procurement Plan - Execution"
+  },
+  {
+    "id": 49,
+    "type": "paragraph",
+    "index": 97,
+    "zh": "选择需要下单的需求，点击【一键下单】，系统会将相同面料品质的需求进行合并，生成采购订单",
+    "en": "Select the demands that need orders placed, click [One-click Order Placement], and the system will merge demands with the same fabric quality to generate purchase orders."
+  },
+  {
+    "id": 50,
+    "type": "paragraph",
+    "index": 100,
+    "zh": "2.3【仓库】辅料备货采购计划-新增",
+    "en": "2.3 [Warehouse] Accessories Stocking Procurement Plan - Add"
+  },
+  {
+    "id": 51,
+    "type": "paragraph",
+    "index": 101,
+    "zh": "【仓库】备货计划提交-查询",
+    "en": "[Warehouse] Stocking Plan Submission - Inquiry"
+  },
+  {
+    "id": 52,
+    "type": "paragraph",
+    "index": 102,
+    "zh": "输入需求编号、物料编码、物料名称等关键词信息进行查询",
+    "en": "Enter keyword details such as requisition ID, material code, or material name to query."
+  },
+  {
+    "id": 53,
+    "type": "paragraph",
+    "index": 104,
+    "zh": "点击【新增】",
+    "en": "Click [Add]"
+  },
+  {
+    "id": 54,
+    "type": "paragraph",
+    "index": 110,
+    "zh": "点击【添加】按钮",
+    "en": "Click the [Add] button."
+  },
+  {
+    "id": 55,
+    "type": "paragraph",
+    "index": 113,
+    "zh": "输入物料名称、物料编码查找需要采购的物料信息，选中，点击【确认】",
+    "en": "Enter the material name or material code to search for materials to procure, select them, and click [Confirm]."
+  },
+  {
+    "id": 56,
+    "type": "paragraph",
+    "index": 114,
+    "zh": "填写备货数量，交付时间，勾选右下角的确认选项，点击【提交】发起审批；",
+    "en": "Fill in stocking quantity and delivery time, check the confirmation option in the bottom right corner, and click [Submit] to initiate approval;"
+  },
+  {
+    "id": 57,
+    "type": "paragraph",
+    "index": 115,
+    "zh": "如果不想提交审批，可以点击【暂存】按钮，保存数据",
+    "en": "If you do not want to submit for approval yet, you can click the [Temporary Save] button to save the data."
+  },
+  {
+    "id": 58,
+    "type": "paragraph",
+    "index": 116,
+    "zh": "注意：仓库备货的时候，需求类型不需要修改",
+    "en": "Note: During warehouse stocking, there is no need to modify the demand type."
+  },
+  {
+    "id": 59,
+    "type": "paragraph",
+    "index": 118,
+    "zh": "暂存的需求可再次编辑—提交或者删除",
+    "en": "Temporarily saved requisitions can be edited again, submitted, or deleted."
+  },
+  {
+    "id": 60,
+    "type": "paragraph",
+    "index": 121,
+    "zh": "【申请人】采购计划详情",
+    "en": "[Applicant] Procurement Plan Details"
+  },
+  {
+    "id": 61,
+    "type": "paragraph",
+    "index": 122,
+    "zh": "点击“详情”可查看需求单明细以及审批流转信息",
+    "en": "Click \"Details\" to view requisition details and approval flow history."
+  },
+  {
+    "id": 62,
+    "type": "paragraph",
+    "index": 126,
+    "zh": "【申请人】采购申请进度查询",
+    "en": "[Applicant] Requisition Progress Inquiry"
+  },
+  {
+    "id": 63,
+    "type": "paragraph",
+    "index": 127,
+    "zh": "审核通过的可以进行进度查询，点击【查看进度】跳转对应 采购进度查询  界面",
+    "en": "Approved items can be tracked for progress. Click [View Progress] to jump to the corresponding Procurement Progress Inquiry interface."
+  },
+  {
+    "id": 64,
+    "type": "paragraph",
+    "index": 131,
+    "zh": "单据状态说明：",
+    "en": "Document Status Description:"
+  },
+  {
+    "id": 65,
+    "type": "paragraph",
+    "index": 132,
+    "zh": "【审批人】审批",
+    "en": "[Approver] Approval"
+  },
+  {
+    "id": 66,
+    "type": "paragraph",
+    "index": 135,
+    "zh": "【系统】消息通知",
+    "en": "[System] Message Notification"
+  },
+  {
+    "id": 67,
+    "type": "paragraph",
+    "index": 136,
+    "zh": "审批拒绝",
+    "en": "Approval Rejected"
+  },
+  {
+    "id": 68,
+    "type": "paragraph",
+    "index": 138,
+    "zh": "审批通过",
+    "en": "Approval Passed"
+  },
+  {
+    "id": 69,
+    "type": "paragraph",
+    "index": 141,
+    "zh": "【单据】状态说明",
+    "en": "[Document] Status Description"
+  },
+  {
+    "id": 70,
+    "type": "paragraph",
+    "index": 142,
+    "zh": "等待提交：可编辑或删除该申请，查看详情",
+    "en": "Draft / Pending Submission: You can edit or delete this requisition, or view its details."
+  },
+  {
+    "id": 71,
+    "type": "paragraph",
+    "index": 143,
+    "zh": "等待审核：审批进行中，只可查看申请详情",
+    "en": "Pending Approval: Approval is in progress; you can only view requisition details."
+  },
+  {
+    "id": 72,
+    "type": "paragraph",
+    "index": 144,
+    "zh": "审核通过：审批通过可查看详情，查看进度以及打印",
+    "en": "Approved: The approval has passed; you can view details, check progress, and print."
+  },
+  {
+    "id": 73,
+    "type": "paragraph",
+    "index": 145,
+    "zh": "审核驳回：审批拒绝，可重新编辑 or 删除该申请，查看详情",
+    "en": "Rejected: Approval has been rejected; you can re-edit or delete this requisition, or view its details."
+  },
+  {
+    "id": 74,
+    "type": "paragraph",
+    "index": 146,
+    "zh": "流程撤回：申请人可以撤回审批，重新编辑或删除该申请，查看详情",
+    "en": "Recalled: The applicant can recall the approval workflow to re-edit or delete this requisition, or view its details."
+  },
+  {
+    "id": 75,
+    "type": "paragraph",
+    "index": 148,
+    "zh": "【仓库】采购计划打印",
+    "en": "[Warehouse] Procurement Plan Printing"
+  },
+  {
+    "id": 76,
+    "type": "paragraph",
+    "index": 152,
+    "zh": "2.4【采购经理】辅料采购计划-分配&受理",
+    "en": "2.4 [Purchasing Manager] Accessories Procurement Plan - Allocation & Acceptance"
+  },
+  {
+    "id": 77,
+    "type": "paragraph",
+    "index": 153,
+    "zh": "分配采购员",
+    "en": "Allocate Purchasing Specialist"
+  },
+  {
+    "id": 78,
+    "type": "paragraph",
+    "index": 154,
+    "zh": "选择对应采购任务点击分配，将采购任务分配给对应的采购员",
+    "en": "Select the corresponding procurement tasks, click Allocate, and allocate the procurement tasks to the corresponding Purchasing Specialist."
+  },
+  {
+    "id": 79,
+    "type": "paragraph",
+    "index": 159,
+    "zh": "受理采购任务",
+    "en": "Accept Procurement Tasks"
+  },
+  {
+    "id": 80,
+    "type": "paragraph",
+    "index": 160,
+    "zh": "采购经理分配好任务后，批量受理采购任务",
+    "en": "After the Purchasing Manager allocates the tasks, batch accept the procurement tasks."
+  },
+  {
+    "id": 81,
+    "type": "paragraph",
+    "index": 162,
+    "zh": "关闭采购任务",
+    "en": "Close Procurement Tasks"
+  },
+  {
+    "id": 82,
+    "type": "paragraph",
+    "index": 163,
+    "zh": "若当前物料不需要采购，点击【关闭】可以关闭该采购任务",
+    "en": "If the current material does not need to be procured, click [Close] to close the procurement task."
+  },
+  {
+    "id": 83,
+    "type": "paragraph",
+    "index": 165,
+    "zh": "2.5【采购员】辅料采购计划-执行",
+    "en": "2.5 [Purchasing Specialist] Accessories Procurement Plan - Execution"
+  },
+  {
+    "id": 84,
+    "type": "paragraph",
+    "index": 166,
+    "zh": "【采购员】 库存冲减—>合并采购",
+    "en": "[Purchasing Specialist] Inventory Deduction -> Consolidated Purchase"
+  },
+  {
+    "id": 85,
+    "type": "paragraph",
+    "index": 167,
+    "zh": "若当前物料仓库有备用的库存，则勾选物料，点击【冲减库存】",
+    "en": "If the warehouse has standby inventory for the current material, check the material and click [Deduct Inventory]."
+  },
+  {
+    "id": 86,
+    "type": "paragraph",
+    "index": 170,
+    "zh": "根据库存量以及采购数量，录入冲减数量，点击【确认冲减】，注意：总的冲减数量需要等于采购数量，否则无法提交",
+    "en": "Based on inventory and purchase quantities, enter the deduction quantity, and click [Confirm Deduction]. Note: The total deduction quantity must equal the procurement quantity; otherwise, it cannot be submitted."
+  },
+  {
+    "id": 87,
+    "type": "paragraph",
+    "index": 173,
+    "zh": "若冲减的库存需要取消，点击【预留库存明细】",
+    "en": "If the deducted inventory needs to be cancelled, click [Reserved Inventory Details]."
+  },
+  {
+    "id": 88,
+    "type": "paragraph",
+    "index": 174,
+    "zh": "待完善",
+    "en": "To be perfected"
+  },
+  {
+    "id": 89,
+    "type": "paragraph",
+    "index": 175,
+    "zh": "冲减成功后，若还需要采购的数量是0，代表当前物料不需要采购了，则直接关闭采购需求，点击【关闭】",
+    "en": "After a successful deduction, if the remaining quantity to procure is 0, it means the current material no longer needs to be purchased. Close the procurement demand directly by clicking [Close]."
+  },
+  {
+    "id": 90,
+    "type": "paragraph",
+    "index": 178,
+    "zh": "若冲减库存后，采购数量>0，代表当前物料需要采购，则勾选采购任务—核对供应商以及价格——点击【一键下单】，系统将相同的供应商的物料合并生成采购订单",
+    "en": "If the remaining purchase quantity is > 0 after inventory deduction, it means procurement is required. Check the procurement tasks, verify the supplier and price, and click [One-click Order Placement]. The system will consolidate materials from the same supplier to generate a purchase order."
+  },
+  {
+    "id": 91,
+    "type": "paragraph",
+    "index": 180,
+    "zh": "【采购员】关闭采购任务",
+    "en": "[Purchasing Specialist] Close Procurement Task"
+  },
+  {
+    "id": 92,
+    "type": "paragraph",
+    "index": 181,
+    "zh": "若当前采购任务不需要采购，则点击【关闭】",
+    "en": "If the current procurement task does not need to be purchased, click [Close]."
+  },
+  {
+    "id": 93,
+    "type": "paragraph",
+    "index": 183,
+    "zh": "【采购员】重启采购任务",
+    "en": "[Purchasing Specialist] Restart Procurement Task"
+  },
+  {
+    "id": 94,
+    "type": "paragraph",
+    "index": 184,
+    "zh": "若发现采购关闭错了，可以在已处理—已关闭中，点击【开启】，开启后任务回到待采购列表",
+    "en": "If a procurement task was closed by mistake, find it under Processed -> Closed, and click [Open]. Once opened, the task will return to the Pending Procurement list."
+  },
+  {
+    "id": 95,
+    "type": "paragraph",
+    "index": 186,
+    "zh": "采购订单/合同",
+    "en": "Purchase Order / Contract"
+  },
+  {
+    "id": 96,
+    "type": "paragraph",
+    "index": 187,
+    "zh": "3.1 面料采购订单/合同",
+    "en": "3.1 Fabric Purchase Order / Contract"
+  },
+  {
+    "id": 97,
+    "type": "paragraph",
+    "index": 188,
+    "zh": "【跟单员】查看面料采购订单",
+    "en": "[Merchandiser] View Fabric Purchase Order"
+  },
+  {
+    "id": 98,
+    "type": "paragraph",
+    "index": 189,
+    "zh": "点击【查看】",
+    "en": "Click [View]"
+  },
+  {
+    "id": 99,
+    "type": "paragraph",
+    "index": 192,
+    "zh": "查看订单详情",
+    "en": "View order details."
+  },
+  {
+    "id": 100,
+    "type": "paragraph",
+    "index": 196,
+    "zh": "【跟单员】作废面料采购订单",
+    "en": "[Merchandiser] Invalidate / Void Fabric Purchase Order"
+  },
+  {
+    "id": 101,
+    "type": "paragraph",
+    "index": 197,
+    "zh": "若发现需求不需要下单或者需求变更需要取消采购订单，点击【作废】按钮",
+    "en": "If it is found that the order does not need to be placed or a demand change requires cancelling the purchase order, click the [Invalidate] button."
+  },
+  {
+    "id": 102,
+    "type": "paragraph",
+    "index": 199,
+    "zh": "【跟单员】完成面料采购订单",
+    "en": "[Merchandiser] Complete Fabric Purchase Order"
+  },
+  {
+    "id": 103,
+    "type": "paragraph",
+    "index": 200,
+    "zh": "若当前采购订单不再需要发货入库，则跟单员点击【完成订单】，采购订单状态由【待收货】变【已收货】",
+    "en": "If the current purchase order no longer requires shipment or warehousing, the merchandiser clicks [Complete Order], and the purchase order status will change from [Pending Receipt] to [Received]."
+  },
+  {
+    "id": 104,
+    "type": "paragraph",
+    "index": 202,
+    "zh": "【跟单员】查看/补充面料订单信息",
+    "en": "[Merchandiser] View/Supplement Fabric Order Details"
+  },
+  {
+    "id": 105,
+    "type": "paragraph",
+    "index": 203,
+    "zh": "点击【完善订单信息】，查看和完善订单其他的信息：花号、小花号、品名、经纱、纬纱、经密、维密，如果供应商是GTI面料厂，则这些信息不需要跟单员手动维护和录入，系统会将面料指令单系统中的数据自动更新到服装的采购系统；如果供应商不是GTI面料厂，则这些信息由采购员完善到系统中",
+    "en": "Click [Perfect Order Info] to view and supplement other details of the order: pattern No., small pattern No., product description, warp yarn, weft yarn, warp density, and weft density. If the supplier is the GTI fabric mill, these details do not need to be manually maintained and entered by the merchandiser; the system will automatically update data from the fabric command sheet system to the apparel procurement system. If the supplier is not the GTI fabric mill, these details are supplemented in the system by the Purchasing Specialist."
+  },
+  {
+    "id": 106,
+    "type": "paragraph",
+    "index": 207,
+    "zh": "3.2 辅料采购订单/合同",
+    "en": "3.2 Accessories Purchase Order / Contract"
+  },
+  {
+    "id": 107,
+    "type": "paragraph",
+    "index": 208,
+    "zh": "【采购员】查看采购订单",
+    "en": "[Purchasing Specialist] View Purchase Order"
+  },
+  {
+    "id": 108,
+    "type": "paragraph",
+    "index": 209,
+    "zh": "点击【查看】",
+    "en": "Click [View]"
+  },
+  {
+    "id": 109,
+    "type": "paragraph",
+    "index": 212,
+    "zh": "查看订单详情",
+    "en": "View order details."
+  },
+  {
+    "id": 110,
+    "type": "paragraph",
+    "index": 214,
+    "zh": "【采购员】作废采购订单",
+    "en": "[Purchasing Specialist] Invalidate / Void Purchase Order"
+  },
+  {
+    "id": 111,
+    "type": "paragraph",
+    "index": 215,
+    "zh": "若发现需求不需要下单或者需求变更需要取消采购订单，点击【作废】按钮",
+    "en": "If it is found that the order does not need to be placed or a demand change requires cancelling the purchase order, click the [Invalidate] button."
+  },
+  {
+    "id": 112,
+    "type": "paragraph",
+    "index": 217,
+    "zh": "【采购员】完成采购订单",
+    "en": "[Purchasing Specialist] Complete Purchase Order"
+  },
+  {
+    "id": 113,
+    "type": "paragraph",
+    "index": 218,
+    "zh": "若当前采购订单不再需要发货入库，则采购员点击【完成订单】，采购订单状态由【待收货】变【已收货】",
+    "en": "If the current purchase order no longer requires shipment or warehousing, the Purchasing Specialist clicks [Complete Order], and the purchase order status will change from [Pending Receipt] to [Received]."
+  },
+  {
+    "id": 114,
+    "type": "paragraph",
+    "index": 220,
+    "zh": "【采购员】采购合同新增",
+    "en": "[Purchasing Specialist] Add Purchase Contract"
+  },
+  {
+    "id": 115,
+    "type": "paragraph",
+    "index": 221,
+    "zh": "点击【新增】进入新增采购合同页面",
+    "en": "Click [Add] to enter the Add Purchase Contract page."
+  },
+  {
+    "id": 116,
+    "type": "paragraph",
+    "index": 224,
+    "zh": "选择需要拟定采购合同的供应商，点击【关联采购订单】",
+    "en": "Select the supplier for whom the purchase contract needs to be drafted, and click [Associate Purchase Order]."
+  },
+  {
+    "id": 117,
+    "type": "paragraph",
+    "index": 226,
+    "zh": "勾选需要做合同的采购订单，点击【确认】",
+    "en": "Check the purchase orders to be included in the contract, and click [Confirm]."
+  },
+  {
+    "id": 118,
+    "type": "paragraph",
+    "index": 228,
+    "zh": "核对采购订单信息，点击【提交】",
+    "en": "Verify the purchase order details, and click [Submit]."
+  },
+  {
+    "id": 119,
+    "type": "paragraph",
+    "index": 231,
+    "zh": "辅料检测-入库",
+    "en": "Accessories Inspection - Warehousing"
+  },
+  {
+    "id": 120,
+    "type": "paragraph",
+    "index": 232,
+    "zh": "【采购员】创建收货单",
+    "en": "[Purchasing Specialist] Create Goods Receipt Note (GRN)"
+  },
+  {
+    "id": 121,
+    "type": "paragraph",
+    "index": 233,
+    "zh": "【待发货列表】根据供应商的送货单，勾选需要检测的物料",
+    "en": "[Pending Shipment List] Check the materials that require inspection based on the supplier's Delivery Order (DO)."
+  },
+  {
+    "id": 122,
+    "type": "paragraph",
+    "index": 234,
+    "zh": "若供应商是分批发货的，则点击【新增】",
+    "en": "If the supplier ships in batches, click [Add]."
+  },
+  {
+    "id": 123,
+    "type": "paragraph",
+    "index": 235,
+    "zh": "若供应商是是不是分批发货的，则点击【一键发货】",
+    "en": "If the supplier does not ship in batches, click [One-click Shipment]."
+  },
+  {
+    "id": 124,
+    "type": "paragraph",
+    "index": 238,
+    "zh": "【新增收货单】核实收货数量，采购单价等信息，完善库位信息，点击【提交】",
+    "en": "[Add GRN] Verify details such as receiving quantity and purchase unit price, complete the storage location details, and click [Submit]."
+  },
+  {
+    "id": 125,
+    "type": "paragraph",
+    "index": 241,
+    "zh": "【仓库保管员】通知检测",
+    "en": "[Storekeeper] Notify for Testing / Inspection"
+  },
+  {
+    "id": 126,
+    "type": "paragraph",
+    "index": 242,
+    "zh": "勾选需要检测的物料，点击【提交检测】",
+    "en": "Check the materials that need testing, and click [Submit for Testing]."
+  },
+  {
+    "id": 127,
+    "type": "paragraph",
+    "index": 245,
+    "zh": "单据状态说明：",
+    "en": "Document Status Description:"
+  },
+  {
+    "id": 128,
+    "type": "paragraph",
+    "index": 247,
+    "zh": "【仓库保管员】确认入库",
+    "en": "[Storekeeper] Confirm Warehousing"
+  },
+  {
+    "id": 129,
+    "type": "paragraph",
+    "index": 249,
+    "zh": "入库通知",
+    "en": "Warehousing Notification"
+  },
+  {
+    "id": 130,
+    "type": "paragraph",
+    "index": 253,
+    "zh": "【仓库保管员】新增库位",
+    "en": "[Storekeeper] Add New Bin Location"
+  },
+  {
+    "id": 131,
+    "type": "paragraph",
+    "index": 254,
+    "zh": "收货时候，保管员发现库位不存在，点击库位维护，点击【新增】",
+    "en": "During receiving, if the storekeeper finds that the bin location does not exist, click Location Maintenance, then click [Add]."
+  },
+  {
+    "id": 132,
+    "type": "paragraph",
+    "index": 256,
+    "zh": "输入库位名称，选择仓库名称，点击【确认】",
+    "en": "Enter the bin location name, select the warehouse name, and click [Confirm]."
+  },
+  {
+    "id": 133,
+    "type": "paragraph",
+    "index": 257,
+    "zh": "面料出货申请 Fabric Delivery Application",
+    "en": "Fabric Shipment Application"
+  },
+  {
+    "id": 134,
+    "type": "paragraph",
+    "index": 258,
+    "zh": "【车间总调度】根据生产计划，下达出货申请",
+    "en": "[Chief Workshop Dispatcher] Release shipment application based on the production plan."
+  },
+  {
+    "id": 135,
+    "type": "paragraph",
+    "index": 260,
+    "zh": "操作步骤 Operating Steps",
+    "en": "Operating Steps"
+  },
+  {
+    "id": 136,
+    "type": "paragraph",
+    "index": 261,
+    "zh": "进入【出货申请】菜单，点击【新增】。",
+    "en": "Enter the [Shipment Application] menu and click [Add]."
+  },
+  {
+    "id": 137,
+    "type": "paragraph",
+    "index": 265,
+    "zh": "点击【导入计划】",
+    "en": "Click [Import Plan]"
+  },
+  {
+    "id": 138,
+    "type": "paragraph",
+    "index": 266,
+    "zh": "Click 【导入计划】",
+    "en": "Click [Import Plan]"
+  },
+  {
+    "id": 139,
+    "type": "paragraph",
+    "index": 269,
+    "zh": "左侧是计划，勾选①即将申请的计划信息，点击②，将带申请计划放到右边",
+    "en": "Plans are on the left. Check ① the plan info to be applied for, click ②, and transfer the pending application plan to the right."
+  },
+  {
+    "id": 140,
+    "type": "paragraph",
+    "index": 273,
+    "zh": "勾选③，点击④，将不需要的计划放回左边，最终点【确认】",
+    "en": "Check ③, click ④ to return unwanted plans to the left, and finally click [Confirm]."
+  },
+  {
+    "id": 141,
+    "type": "paragraph",
+    "index": 278,
+    "zh": "填写【申请数量】",
+    "en": "Fill in [Applied Quantity]"
+  },
+  {
+    "id": 142,
+    "type": "paragraph",
+    "index": 282,
+    "zh": "点击【保存】",
+    "en": "Click [Save]"
+  },
+  {
+    "id": 143,
+    "type": "paragraph",
+    "index": 290,
+    "zh": "注意：没有面料编码的行数据不好保存",
+    "en": "Note: Row data without a fabric code is difficult to save."
+  },
+  {
+    "id": 144,
+    "type": "paragraph",
+    "index": 294,
+    "zh": "主页查看已申请待提交的数据",
+    "en": "View applied pending-submission details on the homepage."
+  },
+  {
+    "id": 145,
+    "type": "paragraph",
+    "index": 298,
+    "zh": "可以按照【厂编号】查询",
+    "en": "Query can be performed by [Factory Lot No.]."
+  },
+  {
+    "id": 146,
+    "type": "paragraph",
+    "index": 302,
+    "zh": "按创建时间查询",
+    "en": "Query by creation time."
+  },
+  {
+    "id": 147,
+    "type": "paragraph",
+    "index": 309,
+    "zh": "勾选待提交数据，点击【提交】，如果有效库存量够，会显示”提交成功”，不够，显示红色字体提示",
+    "en": "Check the pending-submission data and click [Submit]. If the available inventory is sufficient, \"Submitted successfully\" will be displayed; if insufficient, a prompt in red text will appear."
+  },
+  {
+    "id": 148,
+    "type": "paragraph",
+    "index": 313,
+    "zh": "点击【已提交】，查看已提交数据，出货标志=0 代表未出货，1代表已出货。",
+    "en": "Click [Submitted] to view submitted data. Shipment Flag = 0 means not shipped; 1 means shipped."
+  },
+  {
+    "id": 149,
+    "type": "paragraph",
+    "index": 319,
+    "zh": "勾选主页某行数据，点击【编辑】，查看同一批申请的信息状态",
+    "en": "Check a row of data on the homepage and click [Edit] to view the status details of the same batch of applications."
+  },
+  {
+    "id": 150,
+    "type": "paragraph",
+    "index": 323,
+    "zh": "编辑状态下，待提交明细可修改申请数量，然后点击【保存】",
+    "en": "In editing status, the applied quantity in pending-submission details can be modified. Click [Save] when done."
+  },
+  {
+    "id": 151,
+    "type": "paragraph",
+    "index": 324,
+    "zh": "14.删除申请信息 Delete application information",
+    "en": "14. Delete application information"
+  },
+  {
+    "id": 152,
+    "type": "paragraph",
+    "index": 327,
+    "zh": "①已出货信息不可删除  Delivered information cannot be deleted",
+    "en": "① Shipped details cannot be deleted."
+  },
+  {
+    "id": 153,
+    "type": "paragraph",
+    "index": 331,
+    "zh": "②已提交明细删除：勾选明细，点击【删除】，点击【保存】，删除该申请明细",
+    "en": "② Deleting submitted details: Check the details, click [Delete], and click [Save] to delete the application details."
+  },
+  {
+    "id": 154,
+    "type": "paragraph",
+    "index": 335,
+    "zh": "③待提交明细删除：勾选待删数据，点击【删除】，点击【保存】，删除该申请明细",
+    "en": "③ Deleting pending-submission details: Check the data to delete, click [Delete], and click [Save] to delete the application details."
+  },
+  {
+    "id": 155,
+    "type": "paragraph",
+    "index": 336,
+    "zh": "六、 仓储管理",
+    "en": "VI. Warehousing Management"
+  },
+  {
+    "id": 156,
+    "type": "paragraph",
+    "index": 337,
+    "zh": "6.1 服装面料出入库管理",
+    "en": "6.1 Fabric Inbound and Outbound Management"
+  },
+  {
+    "id": 157,
+    "type": "paragraph",
+    "index": 338,
+    "zh": "【仓库保管员】审核入库",
+    "en": "[Storekeeper] Audit Inbound / Warehousing"
+  },
+  {
+    "id": 158,
+    "type": "paragraph",
+    "index": 341,
+    "zh": "根据面料厂提供的的码单信息，清点布卷的实物数量——>核对无误后，系统中找到对应的码单，点击编辑",
+    "en": "Based on the yardage list details provided by the fabric mill, count the physical number of fabric rolls. Once verified correct, locate the corresponding yardage list in the system and click Edit."
+  },
+  {
+    "id": 159,
+    "type": "paragraph",
+    "index": 344,
+    "zh": "维护好库位信息，点击【提交】",
+    "en": "Maintain the bin location details and click [Submit]."
+  },
+  {
+    "id": 160,
+    "type": "paragraph",
+    "index": 347,
+    "zh": "二次审核后，列表勾选物料—点击【确认入库】",
+    "en": "After the secondary audit, check the materials in the list and click [Confirm Warehousing]."
+  },
+  {
+    "id": 161,
+    "type": "paragraph",
+    "index": 350,
+    "zh": "点击入库卷数，查看本次入库的布卷详细数据，系统按照色光合并显示，上面是汇总数据，下面是布卷明细",
+    "en": "Click on the inbound roll count to view the detailed roll data for this warehousing. The system consolidates and displays details by color shade, with summary details on top and roll breakdowns below."
+  },
+  {
+    "id": 162,
+    "type": "paragraph",
+    "index": 351,
+    "zh": "【裁剪】新增领用申请",
+    "en": "[Cutting Dept] Add New Requisition Application"
+  },
+  {
+    "id": 163,
+    "type": "paragraph",
+    "index": 352,
+    "zh": "根据裁剪计划，打印领用申请单，地址：http://ymapp.goldenteks.com/purchaseBusiness/materialManage/performanceCenter/purchasecollecting",
+    "en": "Based on the cutting plan, print the material requisition application sheet. URL: http://ymapp.goldenteks.com/purchaseBusiness/materialManage/performanceCenter/purchasecollecting"
+  },
+  {
+    "id": 164,
+    "type": "paragraph",
+    "index": 355,
+    "zh": "点击【新增】",
+    "en": "Click [Add]"
+  },
+  {
+    "id": 165,
+    "type": "paragraph",
+    "index": 358,
+    "zh": "点击【厂编号】",
+    "en": "Click [Factory Lot No.]"
+  },
+  {
+    "id": 166,
+    "type": "paragraph",
+    "index": 361,
+    "zh": "搜索厂编号—选择还在生产中的服装大货订单——点击【确认】",
+    "en": "Search for Factory Lot No., select the bulk apparel order still in production, and click [Confirm]."
+  },
+  {
+    "id": 167,
+    "type": "paragraph",
+    "index": 363,
+    "zh": "根据色光、质量等级等筛选本次需要裁剪的布卷明细，进行勾选，点击右上角【提交】按钮",
+    "en": "Filter the fabric roll details required for this cutting based on color shade, quality grade, etc., select them, and click the [Submit] button in the upper right corner."
+  },
+  {
+    "id": 168,
+    "type": "paragraph",
+    "index": 364,
+    "zh": "【裁剪】面料领用单打印",
+    "en": "[Cutting Dept] Print Fabric Requisition Sheet"
+  },
+  {
+    "id": 169,
+    "type": "paragraph",
+    "index": 365,
+    "zh": "勾选需要打印的单据，点击【打印】，系统支持批量打印和当行打印",
+    "en": "Check the documents to be printed and click [Print]. The system supports batch printing and single-row printing."
+  },
+  {
+    "id": 170,
+    "type": "paragraph",
+    "index": 368,
+    "zh": "打印出来的领用单，送到仓库进行领用",
+    "en": "Take the printed requisition sheet to the warehouse for material collection."
+  },
+  {
+    "id": 171,
+    "type": "paragraph",
+    "index": 368,
+    "zh": "【裁剪】作废领用申请",
+    "en": "[Cutting Dept] Invalidate Requisition Application"
+  },
+  {
+    "id": 172,
+    "type": "paragraph",
+    "index": 369,
+    "zh": "说明：状态是【待领用】的时候可以作废，【已领用】状态无法作废；作废前先联系面料仓库保管员，删除领用出库单，否则申请人无法作废；当仓库删除后，再点击【作废】，系统会提示作废成功",
+    "en": "Note: The application can be invalidated when the status is [Pending Collection]; it cannot be invalidated in [Collected] status. Before invalidation, contact the fabric storekeeper to delete the requisition stock-out sheet; otherwise, the applicant cannot invalidate it. Once deleted by the warehouse, click [Invalidate] and the system will prompt that invalidation is successful."
+  },
+  {
+    "id": 173,
+    "type": "paragraph",
+    "index": 373,
+    "zh": "【仓库保管员】审核出库",
+    "en": "[Storekeeper] Audit Outbound / Stock-out"
+  },
+  {
+    "id": 174,
+    "type": "paragraph",
+    "index": 374,
+    "zh": "根据领用申请单，筛选、勾选需要出库的领用记录，点击【确认出库】",
+    "en": "Based on the requisition application sheet, filter and check the collection records that require outbound processing, and click [Confirm Outbound]."
+  },
+  {
+    "id": 175,
+    "type": "paragraph",
+    "index": 378,
+    "zh": "确认后状态由 【待出库】 变更为【已出库】，库存自动扣减",
+    "en": "Upon confirmation, the status changes from [Pending Outbound] to [Outbound] (Stocked Out), and the inventory is automatically deducted."
+  },
+  {
+    "id": 176,
+    "type": "paragraph",
+    "index": 380,
+    "zh": "【仓库保管员】删除出库单",
+    "en": "[Storekeeper] Delete Stock-out Sheet"
+  },
+  {
+    "id": 177,
+    "type": "paragraph",
+    "index": 381,
+    "zh": "输入领用单号，点击查询",
+    "en": "Enter the requisition sheet number and click Query."
+  },
+  {
+    "id": 178,
+    "type": "paragraph",
+    "index": 384,
+    "zh": "勾选，点击【删除】",
+    "en": "Check the item and click [Delete]."
+  },
+  {
+    "id": 179,
+    "type": "paragraph",
+    "index": 387,
+    "zh": "【仓库保管员】库存查询",
+    "en": "[Storekeeper] Inventory Inquiry"
+  },
+  {
+    "id": 180,
+    "type": "paragraph",
+    "index": 388,
+    "zh": "相同的款号、色光、面料品质、批次的库存量合并显示，点击【库存量】，可以查看具体的布卷明细",
+    "en": "Inventory quantities with the same Style No., color shade, fabric quality, and batch are consolidated and displayed. Click [Inventory Quantity] to view detailed fabric roll breakdowns."
+  },
+  {
+    "id": 181,
+    "type": "paragraph",
+    "index": 390,
+    "zh": "可以看到当前剩余库存是给哪些大货订单使用的",
+    "en": "You can see which bulk orders the current remaining inventory is reserved for."
+  },
+  {
+    "id": 182,
+    "type": "paragraph",
+    "index": 393,
+    "zh": "【仓库保管员】移库",
+    "en": "[Storekeeper] Stock Transfer"
+  },
+  {
+    "id": 183,
+    "type": "paragraph",
+    "index": 394,
+    "zh": "勾选需要移库的布卷信息，点击【批量移库】",
+    "en": "Check the roll details that need to be transferred, and click [Batch Stock Transfer]."
+  },
+  {
+    "id": 184,
+    "type": "paragraph",
+    "index": 396,
+    "zh": "选择新的库位，点击【确认移库】",
+    "en": "Select the new bin location and click [Confirm Stock Transfer]."
+  },
+  {
+    "id": 185,
+    "type": "paragraph",
+    "index": 398,
+    "zh": "6.2 退零料出入库管理",
+    "en": "6.2 Leftover Material Inbound and Outbound Management"
+  },
+  {
+    "id": 186,
+    "type": "paragraph",
+    "index": 399,
+    "zh": "【仓库保管员】新增入库信息",
+    "en": "[Storekeeper] Add Inbound Information"
+  },
+  {
+    "id": 187,
+    "type": "paragraph",
+    "index": 400,
+    "zh": "支持新增入库，编辑，删除，确认入库，导出操作",
+    "en": "Supports actions such as add inbound, edit, delete, confirm inbound, and export."
+  },
+  {
+    "id": 188,
+    "type": "paragraph",
+    "index": 401,
+    "zh": "点击【新增】",
+    "en": "Click [Add]"
+  },
+  {
+    "id": 189,
+    "type": "paragraph",
+    "index": 403,
+    "zh": "点击【选单】",
+    "en": "Click [Select Document]"
+  },
+  {
+    "id": 190,
+    "type": "paragraph",
+    "index": 405,
+    "zh": "勾选已入库的物料信息，点击【确认】",
+    "en": "Check the warehoused material information and click [Confirm]."
+  },
+  {
+    "id": 191,
+    "type": "paragraph",
+    "index": 408,
+    "zh": "根据车间提供的数据，录入零卷和零布对应的数量，点击【提交】",
+    "en": "Based on the data provided by the workshop, enter the corresponding quantities of remnant rolls and remnant fabrics, and click [Submit]."
+  },
+  {
+    "id": 192,
+    "type": "paragraph",
+    "index": 410,
+    "zh": "若想要修改入库数量，点击【编辑】",
+    "en": "If you want to modify the inbound quantity, click [Edit]."
+  },
+  {
+    "id": 193,
+    "type": "paragraph",
+    "index": 414,
+    "zh": "审核无误后，点击【确认入库】，系统自动更新库存数量；注意：已审核入库的数据无法再次修改和编辑",
+    "en": "Once verified correct, click [Confirm Warehousing] and the system will automatically update the inventory quantity. Note: Audited and warehoused data cannot be modified or edited again."
+  },
+  {
+    "id": 194,
+    "type": "paragraph",
+    "index": 416,
+    "zh": "【仓库保管员】新增出库信息",
+    "en": "[Storekeeper] Add Outbound Information"
+  },
+  {
+    "id": 195,
+    "type": "paragraph",
+    "index": 417,
+    "zh": "场景1：当零卷和零布不需要使用了，仓库定期处理售卖后，需要将对应库存进行出库处理，点击【新增出库】",
+    "en": "Scenario 1: When remnant rolls and remnant fabrics are no longer needed and are periodically sold by the warehouse, the corresponding inventory needs to be stocked out. Click [Add Outbound]."
+  },
+  {
+    "id": 196,
+    "type": "paragraph",
+    "index": 418,
+    "zh": "场景2：当跟单员需要做样衣或者售后的时候，需要用到零卷和零布的时候，仓库需要进行出库处理，点击【新增出库】",
+    "en": "Scenario 2: When the merchandiser needs remnant rolls and remnant fabrics for sample garments or after-sales support, the warehouse needs to perform outbound processing. Click [Add Outbound]."
+  },
+  {
+    "id": 197,
+    "type": "paragraph",
+    "index": 421,
+    "zh": "勾选需要出库的数据，点击【确定】",
+    "en": "Check the data to be stocked out and click [Confirm]."
+  },
+  {
+    "id": 198,
+    "type": "paragraph",
+    "index": 424,
+    "zh": "输入本次需要出库的数量，点击【提交】",
+    "en": "Enter the quantity to be stocked out for this transaction, and click [Submit]."
+  },
+  {
+    "id": 199,
+    "type": "paragraph",
+    "index": 427,
+    "zh": "若出库的数量填写错误，点击【编辑】",
+    "en": "If the stocked-out quantity was entered incorrectly, click [Edit]."
+  },
+  {
+    "id": 200,
+    "type": "paragraph",
+    "index": 429,
+    "zh": "修改出库的数量后，再次点击【提交】",
+    "en": "After modifying the stocked-out quantity, click [Submit] again."
+  },
+  {
+    "id": 201,
+    "type": "paragraph",
+    "index": 432,
+    "zh": "核对无误后，点击【确认出库】，系统自动更新库存数量",
+    "en": "Verify details are correct, click [Confirm Outbound], and the system will automatically update the inventory quantity."
+  },
+  {
+    "id": 202,
+    "type": "paragraph",
+    "index": 434,
+    "zh": "【仓库保管员】库存查询",
+    "en": "[Storekeeper] Inventory Inquiry"
+  },
+  {
+    "id": 203,
+    "type": "paragraph",
+    "index": 435,
+    "zh": "查看目前仓库中还有多少剩余的零卷和零布的数量，督促跟单员定期处理",
+    "en": "Check the current remaining quantities of remnant rolls and remnant fabrics in the warehouse, and urge merchandisers to handle them periodically."
+  },
+  {
+    "id": 204,
+    "type": "paragraph",
+    "index": 438,
+    "zh": "6.3 样布出入库管理",
+    "en": "6.3 Sample Fabric Inbound and Outbound Management"
+  },
+  {
+    "id": 205,
+    "type": "paragraph",
+    "index": 439,
+    "zh": "【技术科长】新增入库信息",
+    "en": "[Technical Section Chief] Add Inbound Information"
+  },
+  {
+    "id": 206,
+    "type": "paragraph",
+    "index": 440,
+    "zh": "若样衣订单用到的面料需要和供应商开票结算，则技术科长需要操作入库",
+    "en": "If the fabrics used for sample garment orders need to be invoiced and settled with the supplier, the Technical Section Chief must perform warehousing."
+  },
+  {
+    "id": 207,
+    "type": "paragraph",
+    "index": 441,
+    "zh": "点击【新增入库】",
+    "en": "Click [Add Inbound]"
+  },
+  {
+    "id": 208,
+    "type": "paragraph",
+    "index": 444,
+    "zh": "点击【选单】",
+    "en": "Click [Select Document]"
+  },
+  {
+    "id": 209,
+    "type": "paragraph",
+    "index": 446,
+    "zh": "选择需要结算的样衣订单，点击【确定】",
+    "en": "Select the sample garment order to be settled, and click [Confirm]."
+  },
+  {
+    "id": 210,
+    "type": "paragraph",
+    "index": 449,
+    "zh": "系统自动带出物料信息，技术科长录入品名、供应商、采购单价、入库数量、币种、税点，点击【提交】",
+    "en": "The system automatically brings in the material info. The Technical Section Chief enters the product name, supplier, purchase unit price, inbound quantity, currency, and tax point, then clicks [Submit]."
+  },
+  {
+    "id": 211,
+    "type": "paragraph",
+    "index": 452,
+    "zh": "若正式入库之前，发现录入的数据需要修改，点击【编辑】，修改后再次提交",
+    "en": "If the entered data needs to be modified before formal warehousing, click [Edit], modify, and submit again."
+  },
+  {
+    "id": 212,
+    "type": "paragraph",
+    "index": 455,
+    "zh": "核实无误后，最终点击【确认入库】，系统根据入库记录，自动出库，并生成对账验收明细",
+    "en": "Once verified correct, click [Confirm Warehousing] finally. The system will automatically perform outbound processing based on warehousing records and generate reconciliation acceptance details."
+  },
+  {
+    "id": 213,
+    "type": "paragraph",
+    "index": 458,
+    "zh": "【技术科长】核实出库信息",
+    "en": "[Technical Section Chief] Verify Outbound Details"
+  },
+  {
+    "id": 214,
+    "type": "paragraph",
+    "index": 461,
+    "zh": "6.4 辅料出入库管理",
+    "en": "6.4 Accessories Inbound and Outbound Management"
+  },
+  {
+    "id": 215,
+    "type": "paragraph",
+    "index": 462,
+    "zh": "【仓库保管员】查看入库记录",
+    "en": "[Storekeeper] View Inbound Records"
+  },
+  {
+    "id": 216,
+    "type": "paragraph",
+    "index": 463,
+    "zh": "可以根据物料名称、物料编码、供应商来查找入库信息",
+    "en": "Inbound details can be queried by material name, material code, or supplier."
+  },
+  {
+    "id": 217,
+    "type": "paragraph",
+    "index": 466,
+    "zh": "【仓库保管员】新增领用申请",
+    "en": "[Storekeeper] Add New Requisition Application"
+  },
+  {
+    "id": 218,
+    "type": "paragraph",
+    "index": 467,
+    "zh": "点击【新增】",
+    "en": "Click [Add]"
+  },
+  {
+    "id": 219,
+    "type": "paragraph",
+    "index": 469,
+    "zh": "点击厂编号",
+    "en": "Click Factory Lot No."
+  },
+  {
+    "id": 220,
+    "type": "paragraph",
+    "index": 471,
+    "zh": "搜索厂编号—选择还在生产中的服装大货订单——点击【确认】",
+    "en": "Search Factory Lot No., select the bulk apparel order still in production, and click [Confirm]."
+  },
+  {
+    "id": 221,
+    "type": "paragraph",
+    "index": 474,
+    "zh": "根据生产计划，录入本次需要领用的数量，点击【提交】",
+    "en": "Based on the production plan, enter the quantity to be collected for this transaction, and click [Submit]."
+  },
+  {
+    "id": 222,
+    "type": "paragraph",
+    "index": 477,
+    "zh": "【仓库保管员】作废领用申请",
+    "en": "[Storekeeper] Invalidate Requisition Application"
+  },
+  {
+    "id": 223,
+    "type": "paragraph",
+    "index": 478,
+    "zh": "说明：状态是【待领用】的时候可以作废，【已领用】状态无法作废；作废前先仓库保管员需要先删除领用出库单，否则无法作废；当仓库删除后，再点击【作废】，系统会提示作废成功",
+    "en": "Note: The application can be invalidated when the status is [Pending Collection]; it cannot be invalidated in [Collected] status. Before invalidation, the storekeeper needs to delete the requisition stock-out sheet; otherwise, it cannot be invalidated. Once deleted by the warehouse, click [Invalidate] and the system will prompt that invalidation is successful."
+  },
+  {
+    "id": 224,
+    "type": "paragraph",
+    "index": 481,
+    "zh": "【仓库保管员】审核出库",
+    "en": "[Storekeeper] Audit Outbound / Stock-out"
+  },
+  {
+    "id": 225,
+    "type": "paragraph",
+    "index": 482,
+    "zh": "勾选本次出库的物料，再次核实出库的数量，点击【确认出库】，系统自动扣减库存",
+    "en": "Check the materials for outbound processing, verify the stocked-out quantities once more, and click [Confirm Outbound]. The system will automatically deduct the inventory."
+  },
+  {
+    "id": 226,
+    "type": "paragraph",
+    "index": 485,
+    "zh": "【仓库保管员】库存查询",
+    "en": "[Storekeeper] Inventory Inquiry"
+  },
+  {
+    "id": 227,
+    "type": "paragraph",
+    "index": 486,
+    "zh": "输入物料名称、规格型号、款号等，点击【查询】",
+    "en": "Enter the material name, specification model, Style No., etc., and click [Query]."
+  },
+  {
+    "id": 228,
+    "type": "paragraph",
+    "index": 489,
+    "zh": "点击库存量，能查看出当前库存是给哪个大货订单使用的",
+    "en": "Click on the inventory quantity to view which bulk order the current stock is allocated to."
+  },
+  {
+    "id": 229,
+    "type": "paragraph",
+    "index": 493,
+    "zh": "【仓库保管员】移库",
+    "en": "[Storekeeper] Stock Transfer"
+  },
+  {
+    "id": 230,
+    "type": "paragraph",
+    "index": 494,
+    "zh": "若需要对仓库中的某些物料进行移库，勾选需要移库的物料，点击【移库】",
+    "en": "If certain materials in the warehouse need to be transferred, check the materials and click [Stock Transfer]."
+  },
+  {
+    "id": 231,
+    "type": "paragraph",
+    "index": 497,
+    "zh": "选择新的库位，点击【确认】",
+    "en": "Select the new bin location and click [Confirm]."
+  },
+  {
+    "id": 232,
+    "type": "paragraph",
+    "index": 500,
+    "zh": "6.5 成品出入库管理",
+    "en": "6.5 Finished Goods Inbound and Outbound Management"
+  },
+  {
+    "id": 233,
+    "type": "paragraph",
+    "index": 501,
+    "zh": "【仓库保管员】审核入库",
+    "en": "[Storekeeper] Audit Inbound / Warehousing"
+  },
+  {
+    "id": 234,
+    "type": "paragraph",
+    "index": 502,
+    "zh": "根据出货箱单，核实成衣入库的实物箱数，审核无误后，系统点击【确认入库】，系统自动更新库存；若核实箱数不对，联系后道修改出货箱单",
+    "en": "Based on the shipping packing list, verify the actual number of boxes of finished garments being warehoused. Once audited and correct, click [Confirm Warehousing] in the system, and the system will automatically update the stock. If the verified box count is incorrect, contact the finishing section to modify the shipping packing list."
+  },
+  {
+    "id": 235,
+    "type": "paragraph",
+    "index": 505,
+    "zh": "【仓库保管员】审核出库",
+    "en": "[Storekeeper] Audit Outbound / Stock-out"
+  },
+  {
+    "id": 236,
+    "type": "paragraph",
+    "index": 506,
+    "zh": "根据出货通知单，核实成衣需要出库的实物箱数，审核无误后，在系统点击【确认出库】，系统自动扣减库存；若核实的箱数不对，联系跟单员修改出货通知单",
+    "en": "Based on the shipping advice note, verify the actual number of boxes of finished garments requiring outbound delivery. Once audited and correct, click [Confirm Outbound] in the system, and the system will automatically deduct stock. If the verified box count is incorrect, contact the merchandiser to modify the shipping advice note."
+  },
+  {
+    "id": 237,
+    "type": "paragraph",
+    "index": 508,
+    "zh": "【仓库保管员】库存查询",
+    "en": "[Storekeeper] Inventory Inquiry"
+  },
+  {
+    "id": 238,
+    "type": "paragraph",
+    "index": 509,
+    "zh": "输入款号、厂编号、客户代码、出货地等查询剩余库存数量",
+    "en": "Enter the Style No., Factory Lot No., customer code, shipping destination, etc., to query remaining stock quantities."
+  },
+  {
+    "id": 239,
+    "type": "paragraph",
+    "index": 511,
+    "zh": "【仓库保管员】移库",
+    "en": "[Storekeeper] Stock Transfer"
+  },
+  {
+    "id": 240,
+    "type": "paragraph",
+    "index": 512,
+    "zh": "当大货订单的库存，需要变更库存的位置，勾选需要移库的库存，点击【移库】",
+    "en": "When the inventory of bulk orders needs to change its storage location, check the inventory to be transferred and click [Stock Transfer]."
+  },
+  {
+    "id": 241,
+    "type": "paragraph",
+    "index": 514,
+    "zh": "选择新的库位，点击【确定】",
+    "en": "Select the new bin location and click [Confirm]."
+  },
+  {
+    "id": 242,
+    "type": "paragraph",
+    "index": 517,
+    "zh": "发票验收",
+    "en": "Invoice Acceptance"
+  },
+  {
+    "id": 243,
+    "type": "paragraph",
+    "index": 518,
+    "zh": "7.1辅料发票验收",
+    "en": "7.1 Accessories Invoice Acceptance"
+  },
+  {
+    "id": 244,
+    "type": "paragraph",
+    "index": 519,
+    "zh": "【仓库保管员】对账验收",
+    "en": "[Storekeeper] Reconciliation and Acceptance"
+  },
+  {
+    "id": 245,
+    "type": "paragraph",
+    "index": 520,
+    "zh": "根据供应商开具的发票，勾选需要验收的物料，点击【生成对账单】",
+    "en": "Based on the invoice issued by the supplier, check the materials requiring acceptance, and click [Generate Reconciliation Statement]."
+  },
+  {
+    "id": 246,
+    "type": "paragraph",
+    "index": 523,
+    "zh": "核对本次验收的数量，验收的金额，默认显示的是入库的时候数量和金额，可以修改；",
+    "en": "Verify the quantity and amount for this acceptance. The quantities and amounts from the warehousing are displayed by default and can be modified;"
+  },
+  {
+    "id": 247,
+    "type": "paragraph",
+    "index": 524,
+    "zh": "录入发票号码、开票金额、税率、无税总金额、开票日期、送货单号；其中开票金额=列表的本次对账金额含税；无税总金额=列表的本次对账金额无税；否则保存失败",
+    "en": "Enter the invoice number, billing amount, tax rate, total amount excluding tax, billing date, and Delivery Order (DO) number. Specifically, billing amount must equal the current reconciliation amount (tax-inclusive) in the list; total amount excluding tax must equal the current reconciliation amount (tax-exclusive) in the list; otherwise, the save will fail."
+  },
+  {
+    "id": 248,
+    "type": "paragraph",
+    "index": 527,
+    "zh": "【仓库保管员】打印验收单",
+    "en": "[Storekeeper] Print Acceptance Sheet"
+  },
+  {
+    "id": 249,
+    "type": "paragraph",
+    "index": 528,
+    "zh": "选择已验收的发票，点击【批量打印】",
+    "en": "Select the accepted invoices, and click [Batch Print]."
+  },
+  {
+    "id": 250,
+    "type": "paragraph",
+    "index": 531,
+    "zh": "点击【打印】，将验收单和发票拿给财务",
+    "en": "Click [Print], and hand the acceptance sheet and invoice over to the Finance Department."
+  },
+  {
+    "id": 251,
+    "type": "paragraph",
+    "index": 533,
+    "zh": "【仓库保管员】作废验收单",
+    "en": "[Storekeeper] Invalidate / Void Acceptance Sheet"
+  },
+  {
+    "id": 252,
+    "type": "paragraph",
+    "index": 534,
+    "zh": "若验收的数据有问题，或者验收错误，则点击【作废】",
+    "en": "If there is an issue with the accepted details or if it was accepted by mistake, click [Invalidate]."
+  },
+  {
+    "id": 253,
+    "type": "paragraph",
+    "index": 536,
+    "zh": "7.2 面料发票验收",
+    "en": "7.2 Fabric Invoice Acceptance"
+  },
+  {
+    "id": 254,
+    "type": "paragraph",
+    "index": 537,
+    "zh": "【仓库保管员】对账验收",
+    "en": "[Storekeeper] Reconciliation and Acceptance"
+  },
+  {
+    "id": 255,
+    "type": "paragraph",
+    "index": 538,
+    "zh": "选择样布仓库，勾选需要验收的数据，点击【生成对账单】",
+    "en": "Select the sample fabric warehouse, check the data requiring acceptance, and click [Generate Reconciliation Statement]."
+  },
+  {
+    "id": 256,
+    "type": "paragraph",
+    "index": 540,
+    "zh": "核对本次验收的数量，验收的金额，默认显示的是入库的时候数量 and 金额，可以修改；",
+    "en": "Verify the quantity and amount for this acceptance. The quantities and amounts from the warehousing are displayed by default and can be modified;"
+  },
+  {
+    "id": 257,
+    "type": "paragraph",
+    "index": 541,
+    "zh": "录入发票号码、开票金额、税率、无税总金额、开票日期、送货单号；其中开票金额=列表的本次对账金额含税；无税总金额=列表的本次对账金额无税；否则保存失败",
+    "en": "Enter the invoice number, billing amount, tax rate, total amount excluding tax, billing date, and Delivery Order (DO) number. Specifically, billing amount must equal the current reconciliation amount (tax-inclusive) in the list; total amount excluding tax must equal the current reconciliation amount (tax-exclusive) in the list; otherwise, the save will fail."
+  },
+  {
+    "id": 258,
+    "type": "paragraph",
+    "index": 544,
+    "zh": "【仓库保管员】打印验收单",
+    "en": "[Storekeeper] Print Acceptance Sheet"
+  },
+  {
+    "id": 259,
+    "type": "paragraph",
+    "index": 545,
+    "zh": "选择已验收的发票，点击【批量打印】",
+    "en": "Select the accepted invoices, and click [Batch Print]."
+  },
+  {
+    "id": 260,
+    "type": "paragraph",
+    "index": 548,
+    "zh": "点击【打印】，将验收单和发票拿给财务",
+    "en": "Click [Print], and hand the acceptance sheet and invoice over to the Finance Department."
+  },
+  {
+    "id": 261,
+    "type": "paragraph",
+    "index": 550,
+    "zh": "【仓库保管员】作废验收单",
+    "en": "[Storekeeper] Invalidate / Void Acceptance Sheet"
+  },
+  {
+    "id": 262,
+    "type": "paragraph",
+    "index": 551,
+    "zh": "若验收的数据有问题，或者验收错误，则点击【作废】",
+    "en": "If there is an issue with the accepted details or if it was accepted by mistake, click [Invalidate]."
+  },
+  {
+    "id": 263,
+    "type": "paragraph",
+    "index": 553,
+    "zh": "出入库明细报表",
+    "en": "Inventory Inbound/Outbound Detail Report"
+  },
+  {
+    "id": 264,
+    "type": "paragraph",
+    "index": 554,
+    "zh": "8.1 【仓库/财务】面料出入库明细报表",
+    "en": "8.1 [Warehouse/Finance] Fabric Inventory Inbound/Outbound Detail Report"
+  },
+  {
+    "id": 265,
+    "type": "paragraph",
+    "index": 555,
+    "zh": "入库明细",
+    "en": "Inbound Details"
+  },
+  {
+    "id": 266,
+    "type": "paragraph",
+    "index": 556,
+    "zh": "选择好仓库，出入库类型：入库，选择入库时间，点击【查询】",
+    "en": "Select the warehouse, set inventory flow type to Inbound, select the inbound date range, and click [Query]."
+  },
+  {
+    "id": 267,
+    "type": "paragraph",
+    "index": 559,
+    "zh": "点击【导出】，将当前查询列表导出为execl表格",
+    "en": "Click [Export] to export the current query list as an Excel spreadsheet."
+  },
+  {
+    "id": 268,
+    "type": "paragraph",
+    "index": 562,
+    "zh": "出库明细",
+    "en": "Outbound Details"
+  },
+  {
+    "id": 269,
+    "type": "paragraph",
+    "index": 563,
+    "zh": "选择好仓库，出入库类型：出库，选择出库的时间，点击【查询】",
+    "en": "Select the warehouse, set inventory flow type to Outbound, select the outbound date range, and click [Query]."
+  },
+  {
+    "id": 270,
+    "type": "paragraph",
+    "index": 566,
+    "zh": "点击【导出】，将当前查询列表导出execl表格",
+    "en": "Click [Export] to export the current query list as an Excel spreadsheet."
+  },
+  {
+    "id": 271,
+    "type": "paragraph",
+    "index": 569,
+    "zh": "8.2 【仓库/财务】辅料出入库明细报表",
+    "en": "8.2 [Warehouse/Finance] Accessories Inventory Inbound/Outbound Detail Report"
+  },
+  {
+    "id": 272,
+    "type": "paragraph",
+    "index": 570,
+    "zh": "入库明细",
+    "en": "Inbound Details"
+  },
+  {
+    "id": 273,
+    "type": "paragraph",
+    "index": 571,
+    "zh": "选择好仓库，出入库类型：入库，选择入库时间，点击【查询】",
+    "en": "Select the warehouse, set inventory flow type to Inbound, select the inbound date range, and click [Query]."
+  },
+  {
+    "id": 274,
+    "type": "paragraph",
+    "index": 574,
+    "zh": "点击【导出】，将当前查询列表导出为execl表格",
+    "en": "Click [Export] to export the current query list as an Excel spreadsheet."
+  },
+  {
+    "id": 275,
+    "type": "paragraph",
+    "index": 577,
+    "zh": "出库明细",
+    "en": "Outbound Details"
+  },
+  {
+    "id": 276,
+    "type": "paragraph",
+    "index": 578,
+    "zh": "选择好仓库，出入库类型：出库，选择出库的时间，点击【查询】",
+    "en": "Select the warehouse, set inventory flow type to Outbound, select the outbound date range, and click [Query]."
+  },
+  {
+    "id": 277,
+    "type": "paragraph",
+    "index": 581,
+    "zh": "点击【导出】，将当前查询列表导出execl表格",
+    "en": "Click [Export] to export the current query list as an Excel spreadsheet."
+  },
+  {
+    "id": 278,
+    "type": "paragraph",
+    "index": 584,
+    "zh": "8.3 【仓库/财务】服装出入库明细报表",
+    "en": "8.3 [Warehouse/Finance] Finished Apparel Inventory Inbound/Outbound Detail Report"
+  },
+  {
+    "id": 279,
+    "type": "paragraph",
+    "index": 585,
+    "zh": "入库明细",
+    "en": "Inbound Details"
+  },
+  {
+    "id": 280,
+    "type": "paragraph",
+    "index": 586,
+    "zh": "选择好仓库，出入库类型：入库，选择入库时间，点击【查询】",
+    "en": "Select the warehouse, set inventory flow type to Inbound, select the inbound date range, and click [Query]."
+  },
+  {
+    "id": 281,
+    "type": "paragraph",
+    "index": 589,
+    "zh": "点击【导出】，将当前查询列表导出为execl表格",
+    "en": "Click [Export] to export the current query list as an Excel spreadsheet."
+  },
+  {
+    "id": 282,
+    "type": "paragraph",
+    "index": 592,
+    "zh": "出库明细",
+    "en": "Outbound Details"
+  },
+  {
+    "id": 283,
+    "type": "paragraph",
+    "index": 593,
+    "zh": "选择好仓库，出入库类型：出库，选择出库的时间，点击【查询】",
+    "en": "Select the warehouse, set inventory flow type to Outbound, select the outbound date range, and click [Query]."
+  },
+  {
+    "id": 284,
+    "type": "paragraph",
+    "index": 596,
+    "zh": "点击【导出】，将当前查询列表导出execl表格",
+    "en": "Click [Export] to export the current query list as an Excel spreadsheet."
+  },
+  {
+    "id": 285,
+    "type": "paragraph",
+    "index": 599,
+    "zh": "常见问题",
+    "en": "Frequently Asked Questions (FAQ)"
+  },
+  {
+    "id": 286,
+    "type": "paragraph",
+    "index": 600,
+    "zh": "1.系统访问地址是哪个？",
+    "en": "1. What is the system access URL?"
+  },
+  {
+    "id": 287,
+    "type": "paragraph",
+    "index": 601,
+    "zh": "内网登录网址：http://10.62.2.7:4000/login或者 http://10.62.2.32/login",
+    "en": "Intranet Login URL: http://10.62.2.7:4000/login or http://10.62.2.32/login"
+  },
+  {
+    "id": 288,
+    "type": "paragraph",
+    "index": 602,
+    "zh": "外网登录地址：http://ymapp.goldenteks.com/",
+    "en": "Extranet Login URL: http://ymapp.goldenteks.com/"
+  },
+  {
+    "id": 289,
+    "type": "paragraph",
+    "index": 603,
+    "zh": "登录账号：工号",
+    "en": "Login ID: Employee ID"
+  },
+  {
+    "id": 290,
+    "type": "paragraph",
+    "index": 604,
+    "zh": "登录密码：一般都是你们自己设置密码；首次登录初始密码abc.123或者0000；如果忘记密码可以找技术部门重置",
+    "en": "Login Password: Usually set by yourselves; initial password for first login is abc.123 or 0000. If you forget your password, contact the Technical Department to reset it."
+  },
+  {
+    "id": 291,
+    "type": "paragraph",
+    "index": 605,
+    "zh": "2.登录之后看不到相关审批/申请等菜单，为什么？",
+    "en": "2. Why can't I see the related menus such as Approval/Requisition after logging in?"
+  },
+  {
+    "id": 292,
+    "type": "paragraph",
+    "index": 606,
+    "zh": "可能是相关权限没有，请先确认是否在以下链接开通权限表中。如需开通相关权限，先在以下表格中填好信息",
+    "en": "It might be due to a lack of corresponding permissions. Please verify whether you are in the following permission activation sheet link. If you need to activate relevant permissions, first fill in your details in the spreadsheet below."
+  },
+  {
+    "id": 293,
+    "type": "paragraph",
+    "index": 607,
+    "zh": "填好后，打印出来先给部门经理签字——再找采购部经理签字——最后群里拍照片发给管理员",
+    "en": "After filling it out, print it and get your Department Manager's signature -> then get the Purchasing Manager's signature -> finally take a photo and send it to the Administrator in the group chat."
+  },
+  {
+    "id": 294,
+    "type": "paragraph",
+    "index": 609,
+    "zh": "3.手机app如何下载？",
+    "en": "3. How do I download the mobile App?"
+  },
+  {
+    "id": 295,
+    "type": "paragraph",
+    "index": 610,
+    "zh": "安卓手机在应用手机市场搜索 JLDT即可下载",
+    "en": "For Android: Search for \"JLDT\" in your App store to download."
+  },
+  {
+    "id": 296,
+    "type": "paragraph",
+    "index": 612,
+    "zh": "苹果用户打开app Store 搜索 JLDT——巨联科技即可下载",
+    "en": "For iOS: Open App Store and search for \"JLDT\" or \"巨联科技\" to download."
+  },
+  {
+    "id": 297,
+    "type": "paragraph",
+    "index": 614,
+    "zh": "手机app登录密码与电脑登录密码一致",
+    "en": "The mobile App login password is identical to the PC login password."
+  },
+  {
+    "id": 298,
+    "type": "paragraph",
+    "index": 615,
+    "zh": "4.忘记登录密码怎么办？",
+    "en": "4. What should I do if I forget my login password?"
+  },
+  {
+    "id": 299,
+    "type": "paragraph",
+    "index": 616,
+    "zh": "可以钉钉或者微信联系管理员进行密码重置",
+    "en": "You can contact the Administrator via DingTalk or WeChat to reset your password."
+  },
+  {
+    "id": 300,
+    "type": "paragraph",
+    "index": 617,
+    "zh": "5.手机app审批时看不到表单信息怎么办？",
+    "en": "5. What should I do if I cannot see form details during approval on the mobile App?"
+  },
+  {
+    "id": 301,
+    "type": "paragraph",
+    "index": 618,
+    "zh": "点击我的——>设置——>退出登录，返回app登录页面，重新登录查看",
+    "en": "Tap Me -> Settings -> Log Out, return to the App login page, and log in again to view."
+  },
+  {
+    "id": 302,
+    "type": "paragraph",
+    "index": 620,
+    "zh": "6.app点击进入后网络异常怎么办？",
+    "en": "6. What should I do if a network exception occurs after entering the App?"
+  },
+  {
+    "id": 303,
+    "type": "paragraph",
+    "index": 621,
+    "zh": "使用公司wifi进行网络连接，并清除app数据。",
+    "en": "Connect using company Wi-Fi, and clear the App data."
+  },
+  {
+    "id": 304,
+    "type": "paragraph",
+    "index": 622,
+    "zh": "安卓用户进入 ，设置——>应用设置——>搜索JLDT——>点击【清除数据】",
+    "en": "For Android users: Settings -> App Settings -> Search \"JLDT\" -> Tap [Clear Data]."
+  },
+  {
+    "id": 305,
+    "type": "paragraph",
+    "index": 624,
+    "zh": "苹果手机用户",
+    "en": "For iOS users:"
+  },
+  {
+    "id": 306,
+    "type": "paragraph",
+    "index": 626,
+    "zh": "（不同品牌手机，入口稍微有差别）",
+    "en": "(Entries may vary slightly across different mobile phone brands.)"
+  },
+  {
+    "id": 307,
+    "type": "paragraph",
+    "index": 627,
+    "zh": "终极办法：卸载应用，重新安装",
+    "en": "Ultimate Solution: Uninstall the application and reinstall it."
+  },
+  {
+    "id": 308,
+    "type": "paragraph",
+    "index": 628,
+    "zh": "7.如何查看审批驳回原因？",
+    "en": "7. How do I view the reason for an approval rejection?"
+  },
+  {
+    "id": 309,
+    "type": "paragraph",
+    "index": 629,
+    "zh": "点击详情再点击流转记录，查看最新审批记录，即可查看驳回原因",
+    "en": "Click Details, then click Process Flow / Routing History, and view the latest approval record to check the rejection reason."
+  },
+  {
+    "id": 310,
+    "type": "paragraph",
+    "index": 631,
+    "zh": "如何清除浏览器缓存",
+    "en": "How to Clear Browser Cache"
+  },
+  {
+    "id": 311,
+    "type": "paragraph",
+    "index": 632,
+    "zh": "Google Chrome：打开Chrome浏览器，点击右上角的菜单按钮（三个竖点），选择“清除浏览数据”，在弹出的窗口中选择时间范围等选项，点击“删除数据”按钮。",
+    "en": "Google Chrome: Open Chrome browser, click the menu button (three vertical dots) in the upper right corner, select \"Clear browsing data\", select the time range and other options in the pop-up window, and click the \"Clear data\" button."
+  },
+  {
+    "id": 312,
+    "type": "paragraph",
+    "index": 634,
+    "zh": "Mozilla Firefox：打开Firefox浏览器，点击右上角的菜单按钮（三个横线），选择“选项”->\"设置\"->“隐私与安全”，点击“清除数据”按钮，在弹出的窗口中点击“清除”按钮。",
+    "en": "Mozilla Firefox: Open Firefox browser, click the menu button (three horizontal lines) in the upper right corner, select \"Options\" -> \"Settings\" -> \"Privacy & Security\", click the \"Clear Data\" button, and click \"Clear\" in the pop-up window."
+  },
+  {
+    "id": 313,
+    "type": "paragraph",
+    "index": 636,
+    "zh": "Microsoft Edge：打开Edge浏览器，点击右上角的菜单按钮（三个横线），选择“设置”->“隐私、搜索和服务”->“清除浏览数据”，选择时间范围等选项，点击“立即清除”按钮。",
+    "en": "Microsoft Edge: Open Edge browser, click the menu button (three horizontal lines) in the upper right corner, select \"Settings\" -> \"Privacy, search, and services\" -> \"Clear browsing data\", select the time range and other options, and click \"Clear now\"."
+  },
+  {
+    "id": 314,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 0,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "状态",
+    "en": "Status"
+  },
+  {
+    "id": 315,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 0,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明",
+    "en": "Description"
+  },
+  {
+    "id": 316,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 1,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "待询价",
+    "en": "Pending RFQ / Sourcing"
+  },
+  {
+    "id": 317,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 1,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，需要采购部进行询比价，询价还未开始",
+    "en": "Indicates that the current procurement demand requires the Purchasing Department to conduct price comparison/RFQ sourcing, and the sourcing has not yet started."
+  },
+  {
+    "id": 318,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 2,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "询价中",
+    "en": "Under RFQ / Sourcing in Progress"
+  },
+  {
+    "id": 319,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 2,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，需要采购部进行询比价，询价进行中",
+    "en": "Indicates that the current procurement demand requires the Purchasing Department to conduct price comparison/RFQ sourcing, and the sourcing is in progress."
+  },
+  {
+    "id": 320,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 3,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "已询价待审批",
+    "en": "RFQ Sourcing Finished, Pending Approval"
+  },
+  {
+    "id": 321,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 3,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，需要采购部进行询比价，询价已结束，采购部在审核确认中标的供应商和价格",
+    "en": "Indicates that the current procurement demand requires price comparison/RFQ sourcing. Sourcing has finished, and the Purchasing Department is auditing and confirming the awarded supplier and price."
+  },
+  {
+    "id": 322,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 4,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "待采购",
+    "en": "Pending Procurement"
+  },
+  {
+    "id": 323,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 4,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，已经有可用的采购价，等待采购员下达采购订单",
+    "en": "Indicates that the current procurement demand has a valid purchase price available, and is waiting for the Purchasing Specialist to release a purchase order."
+  },
+  {
+    "id": 324,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 5,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "已下单",
+    "en": "Order Placed"
+  },
+  {
+    "id": 325,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 5,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，已经发送采购订单给供应商，等待供应商进行接单",
+    "en": "Indicates that the purchase order for the current procurement demand has been sent to the supplier, and is waiting for the supplier to accept it."
+  },
+  {
+    "id": 326,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 6,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "待发货",
+    "en": "Pending Shipment"
+  },
+  {
+    "id": 327,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 6,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，已经发送采购订单给供应商，供应商已接单，还未发货",
+    "en": "Indicates that the purchase order for the current procurement demand has been sent to the supplier. The supplier has accepted the order but has not shipped it yet."
+  },
+  {
+    "id": 328,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 7,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "部分发货",
+    "en": "Partially Shipped"
+  },
+  {
+    "id": 329,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 7,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，供应商部分发货，在系统中创建了送货单",
+    "en": "Indicates that the supplier has partially shipped the current procurement demand and created a Delivery Order (DO) in the system."
+  },
+  {
+    "id": 330,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 8,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "待收货",
+    "en": "Pending Receipt"
+  },
+  {
+    "id": 331,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 8,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，供应商已全部发货，在系统中创建了送货单",
+    "en": "Indicates that the supplier has fully shipped the current procurement demand and created a Delivery Order (DO) in the system."
+  },
+  {
+    "id": 332,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 9,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "已入库",
+    "en": "Received / Warehoused"
+  },
+  {
+    "id": 333,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 9,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，保管员已审核入仓，申请人可以打领用单从仓库领取",
+    "en": "Indicates that the storekeeper has audited and warehoused the current procurement demand. The applicant can print a requisition sheet to collect it from the warehouse."
+  },
+  {
+    "id": 334,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 10,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "已关闭",
+    "en": "Closed"
+  },
+  {
+    "id": 335,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 10,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，因为一些原因被采购员关闭了，不参与后续的采购流程；如果还需要采购，由采购员重新开启",
+    "en": "Indicates that the current procurement demand has been closed by the Purchasing Specialist for some reason and will not participate in subsequent procurement workflows. If it still needs to be purchased, it can be reopened by the Purchasing Specialist."
+  },
+  {
+    "id": 336,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 11,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "已拒绝",
+    "en": "Rejected"
+  },
+  {
+    "id": 337,
+    "type": "table_cell",
+    "table_idx": 0,
+    "row_idx": 11,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前采购需求，在审批的时候被拒绝，无法参与后续的采购流程",
+    "en": "Indicates that the current procurement demand was rejected during approval and cannot participate in subsequent procurement workflows."
+  },
+  {
+    "id": 338,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 0,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "状态",
+    "en": "Status"
+  },
+  {
+    "id": 339,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 0,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明",
+    "en": "Description"
+  },
+  {
+    "id": 340,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 1,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "待检测",
+    "en": "Pending Inspection"
+  },
+  {
+    "id": 341,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 1,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前物料还未提交检测，待仓库提交",
+    "en": "Indicates that the current material has not yet been submitted for testing/inspection; pending submission by the warehouse."
+  },
+  {
+    "id": 342,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 2,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "检测中",
+    "en": "Under Inspection"
+  },
+  {
+    "id": 343,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 2,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前物料仓库已提交检测，正在检测中，当前状态下无法再次提交检测",
+    "en": "Indicates that the warehouse has submitted the current material for testing/inspection. Inspection is in progress; it cannot be submitted for inspection again in this status."
+  },
+  {
+    "id": 344,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 3,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "合格",
+    "en": "Passed / Qualified"
+  },
+  {
+    "id": 345,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 3,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前物料检测结果是合格的，能操作入库",
+    "en": "Indicates that the testing/inspection result of the current material is qualified/passed, and warehousing can be performed."
+  },
+  {
+    "id": 346,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 4,
+    "col_idx": 0,
+    "para_idx": 0,
+    "zh": "不合格",
+    "en": "Failed / Unqualified"
+  },
+  {
+    "id": 347,
+    "type": "table_cell",
+    "table_idx": 1,
+    "row_idx": 4,
+    "col_idx": 1,
+    "para_idx": 0,
+    "zh": "说明当前物料检测结果是不合格的，不能操作入库；需要通知供应商换货，等货到了后，再次提交检测",
+    "en": "Indicates that the testing/inspection result of the current material is unqualified/failed, and warehousing cannot be performed. The supplier needs to be notified to exchange the goods. Once new goods arrive, submit for inspection again."
+  }
+]
